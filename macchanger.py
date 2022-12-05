@@ -37,7 +37,7 @@ def read_mac(interface):
 
 intro = pyfiglet.figlet_format("MAC Changer", font="standard")
 print(intro)
-print("------------> MAC Changer Version 1.1 by Aditya Patil <------------")
+print("--------------------> MAC Changer Version 1.1 <--------------------")
 
 options = get_arguements()
 
